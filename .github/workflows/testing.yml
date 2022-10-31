@@ -10,7 +10,7 @@ jobs:
       fail-fast: false
       matrix:
         projectPath:
-          - C:\Users\r.garciasu.2019\Documents\git\PruebaIntegracionContinua
+          - ./
         testMode:
           - playmode
           - editmode
